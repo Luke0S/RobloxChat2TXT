@@ -1,0 +1,1 @@
+"%~dp0Assets\RobloxChat2TXT.exe"
